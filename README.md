@@ -2,7 +2,7 @@
 
 ![khappybalt header](image/khappybaltheader.png)
 
-**KhappyBalt** is a [Kha](http://kha.tech) iteration of [Adam 'Atomic' Saltsmans](http://adamatomic.com) [FlappyBalt](http://adamatomic.com/flappybalt), plus [HaxeFlixel](http://haxeflixel.com) has a [FlappyBalt](http://haxeflixel.com/demos/Flappybalt) demo, which uses a [Haxe](https://haxe.org) version of Adams flixel framework
+**KhappyBalt** is a [Kha](http://kha.tech) iteration of [Adam 'Atomic' Saltsmans](http://adamatomic.com) [FlappyBalt](http://adamatomic.com/flappybalt), plus [HaxeFlixel](http://haxeflixel.com) has a [FlappyBalt](http://haxeflixel.com/demos/Flappybalt) demo, which uses a [Haxe](https://haxe.org) version of Adams flixel framework.
 
 Built along in the Let's Kode: KhappyBalt game tutorial series, with full source code available on the [GitHub](https://github.com/lewislepton/letskodekhappybalt) repository.
 
@@ -21,3 +21,5 @@ The game is built with simplicity in mind, but leaving a good amount of space fo
 Have phün & happy coding
 
 [**Lewis Lepton**](https://lewislepton.com)
+
+***All audio elements were created by myself specifically for this tutorial series. The original & even the HaxeFlixel version did not have audio within them***
